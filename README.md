@@ -6,6 +6,7 @@ in 2015 alone. It starts when cells in the breast begin to grow out of control.
 These cells usually form tumors that can be seen via X-ray or felt as lumps in the
 breast area. The key challenges against its detection are how to classify tumors
 into malignant (cancerous) or benign (non-cancerous).
+### There is a prediction of each classification models as an input
 
 ## Steps:
 
