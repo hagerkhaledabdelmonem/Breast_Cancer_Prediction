@@ -15,10 +15,10 @@ into malignant (cancerous) or benign (non-cancerous).
 
 ### Step 3: Definining Exploratory Data Analysis with an overview of the whole project .
 ### Step 4: creat a model that fits the data
-     - LogisticRegression
-     - SVM
-     - DecisionTree
-     - KNN
+    - LogisticRegression
+    - SVM
+    - DecisionTree
+    - KNN
 
 ### Step 5: creating an accurecy table
 
